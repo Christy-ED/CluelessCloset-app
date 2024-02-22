@@ -13,11 +13,4 @@ public class CluelessClosetAppApplication {
 
 
 
-
-
-
-
-
-
-
 }
