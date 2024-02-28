@@ -1,0 +1,14 @@
+package closet;
+
+public class User {
+
+    private int UserId;
+
+    private String name;
+
+    private String Username;
+
+    private String password;
+
+
+}
