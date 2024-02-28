@@ -1,5 +1,7 @@
 package closet;
 
+import java.util.List;
+
 public class User {
 
     private int UserId;
@@ -14,5 +16,12 @@ public class User {
 
     private String WeatherConditions;
 
+    private List<Outfit>oufits;
 
+    private List<ClothingItem>clothingItem;
+
+
+    public User(int userId) {
+        UserId = userId;
+    }
 }
