@@ -24,6 +24,14 @@ public class ClothingItem {
 
     }
 
+    public String getClothingStyle() {
+        return clothingStyle;
+    }
+
+    public void setClothingStyle(String clothingStyle) {
+        this.clothingStyle = clothingStyle;
+    }
+
     public int getClothingId() {
         return clothingId;
     }
