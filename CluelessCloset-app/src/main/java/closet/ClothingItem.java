@@ -2,15 +2,15 @@ package closet;
 
 public class ClothingItem {
 
-    private  int userId;
+    int userId;
 
-    private int clothingId;
+    int clothingId;
 
-    private String itemType;
+    String itemType;
 
-    private String description;
+    String description;
 
-    private  String clothingStyle;
+    String clothingStyle;
 
 
     public ClothingItem(){
