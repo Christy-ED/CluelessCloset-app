@@ -39,4 +39,15 @@ public class ClothingItem {
     public void setClothingId(int clothingId) {
         this.clothingId = clothingId;
     }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+
+
 }
