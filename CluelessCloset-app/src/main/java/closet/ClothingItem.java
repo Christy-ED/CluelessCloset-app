@@ -23,4 +23,12 @@ public class ClothingItem {
         this.description = description;
 
     }
+
+    public int getClothingId() {
+        return clothingId;
+    }
+
+    public void setClothingId(int clothingId) {
+        this.clothingId = clothingId;
+    }
 }
