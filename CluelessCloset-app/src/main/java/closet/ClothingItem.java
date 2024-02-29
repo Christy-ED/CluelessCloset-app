@@ -17,7 +17,10 @@ public class ClothingItem {
 
     }
 
-    public ClothingItem( String itemType, String description){
+    public ClothingItem( String itemType, String description, String clothingStyle){
+        this.clothingStyle = clothingStyle;
+        this.itemType = itemType;
+        this.description = description;
 
     }
 }
