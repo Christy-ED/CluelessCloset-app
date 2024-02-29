@@ -55,4 +55,12 @@ public class ClothingItem {
     public void setItemType(String itemType) {
         this.itemType = itemType;
     }
+
+    public int getUserId() {
+        return userId;
+    }
+
+    public void setUserId(int userId) {
+        this.userId = userId;
+    }
 }
