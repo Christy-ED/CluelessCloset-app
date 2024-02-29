@@ -48,6 +48,11 @@ public class ClothingItem {
         this.description = description;
     }
 
+    public String getItemType() {
+        return itemType;
+    }
 
-
+    public void setItemType(String itemType) {
+        this.itemType = itemType;
+    }
 }
