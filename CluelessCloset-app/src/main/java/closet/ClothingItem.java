@@ -4,6 +4,9 @@ public class ClothingItem {
 
     int userId;
 
+
+
+
     int clothingId;
 
     String itemType;
