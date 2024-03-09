@@ -2,11 +2,6 @@ package closet;
 
 public class ClothingItem {
 
-    int userId;
-
-
-
-
     int clothingId;
 
     String itemType;
@@ -59,11 +54,5 @@ public class ClothingItem {
         this.itemType = itemType;
     }
 
-    public int getUserId() {
-        return userId;
-    }
 
-    public void setUserId(int userId) {
-        this.userId = userId;
-    }
 }
