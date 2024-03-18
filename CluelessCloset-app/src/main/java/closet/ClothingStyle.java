@@ -14,4 +14,12 @@ public class ClothingStyle {
     String casual;
 
     String formal;
+
+    public int getClothingStyle() {
+        return clothingStyle;
+    }
+
+    public void setClothingStyle(int clothingStyle) {
+        this.clothingStyle = clothingStyle;
+    }
 }
