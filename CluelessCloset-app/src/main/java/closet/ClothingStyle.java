@@ -3,6 +3,7 @@ package closet;
 public class ClothingStyle {
 
 
+
     int clothingStyleId;
     String casual;
 
@@ -11,6 +12,16 @@ public class ClothingStyle {
     public void clothingStyle(){
 
     }
+
+
+    public int getClothingStyleId() {
+        return clothingStyleId;
+    }
+
+    public void setClothingStyleId(int clothingStyleId) {
+        this.clothingStyleId = clothingStyleId;
+    }
+
     public String getFormal() {
         return formal;
     }
