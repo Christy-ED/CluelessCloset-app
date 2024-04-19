@@ -2,11 +2,12 @@ package closet;
 
 public class Outfit {
 
-    private int outfitId;
+     int outfitId;
+     String itemType;
 
 
 
-    // still thinking what the next step should be
+
 
 
 
