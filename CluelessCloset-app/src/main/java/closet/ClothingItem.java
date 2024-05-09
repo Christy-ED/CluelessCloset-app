@@ -50,6 +50,9 @@ public class ClothingItem {
         return itemType;
     }
 
+
+
+
     public void setItemType(String itemType) {
         this.itemType = itemType;
     }
