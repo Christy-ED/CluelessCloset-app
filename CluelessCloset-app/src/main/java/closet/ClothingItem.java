@@ -46,6 +46,12 @@ public class ClothingItem {
         this.description = description;
     }
 
+
+
+
+
+
+
     public String getItemType() {
         return itemType;
     }
